@@ -5,13 +5,13 @@ This is the repository for code related to my undergraduate research thesis at J
 After meeting with Dr. Edmunds Reineks at the [Pathology and Laboratory Medicine Institute at the Cleveland Clinic](http://my.clevelandclinic.org/services/pathology-laboratory-medicine), we decided to apply machine learning to their blood testing data.  Classification of contaminated blood tests is done rather archaically, with rule-based methods the norm in major laboratories worldwide.  We received a small dataset to begin work with, and while the data progressively got larger, the core ideas behind the project remained simple: 
 * Limit ourselves to the standard metabolic panel (Blood Urea Nitrogen, Calcium, Carbon Dioxide, Chloride, Creatinine, Glucose, Potassium, Sodium),
 * Survey a variety of classifiers (both linear and nonlinear), and
-* Use lightweight, agile tools that could be learned and automated quickly by a variety of professionals.
+* Use lightweight, agile tools that can be learned and automated quickly by a variety of professionals.
 
 ### The tools
 * R for initial data cleaning and algorithm prototyping
 * Hadoop when we decided to go 'Big Data'
-* AWS and Python's scikit-learn for Kernel Density Estimation to get us to 'Big Data'
+* Python's scikit-learn for Gaussian Mixture Model to get us to 'Big Data'
 * Spark ML when we decided to go with the all-in-one library for user simplicity
 
 ### The results
-We are currently writing two papers associated with this research project; one for a clinical audience and one for the data scientists.  I'll update with major findings and a link to the papers themselves.
+We are currently writing two papers associated with this research project; one for a clinical audience and one for the data scientists.  I'll update with major findings and a link to the papers themselves upon completion and acceptance.
