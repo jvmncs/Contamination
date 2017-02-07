@@ -14,4 +14,4 @@ After meeting with Dr. Edmunds Reineks at the [Pathology and Laboratory Medicine
 * Spark ML when we decided to go with the all-in-one library for user simplicity
 
 ### The results
-We are currently writing two papers associated with this research project; one for a clinical audience and one for the data scientists.  I'll update with major findings and a link to the papers themselves upon completion and acceptance.
+We are currently writing two papers associated with this research project; one for a clinical audience and one for data scientists.  I'll update with major findings and a link to the papers themselves upon completion and acceptance.
