@@ -3,7 +3,7 @@ This is the repository for code related to my undergraduate research thesis at J
 
 ### The project
 After meeting with Dr. Edmunds Reineks at the [Pathology and Laboratory Medicine Institute at the Cleveland Clinic](http://my.clevelandclinic.org/services/pathology-laboratory-medicine), we decided to apply machine learning to their blood testing data.  Classification of contaminated blood tests is done rather archaically, with rule-based methods the norm in major laboratories worldwide.  We received a small dataset to begin work with, and while the data progressively got larger, the core ideas behind the project remained simple: 
-* Limit ourselves to the standard metabolic panel (Blood Urea Nitrogen, Calcium, Carbon Dioxide, Chloride, Creatinine, Glucose, Potassium, Sodium),
+* Limit ourselves to the basic metabolic panel (Blood Urea Nitrogen, Calcium, Carbon Dioxide, Chloride, Creatinine, Glucose, Potassium, Sodium),
 * Survey a variety of classifiers (both linear and nonlinear), and
 * Use lightweight, agile tools that can be learned and automated quickly by a variety of professionals.
 
