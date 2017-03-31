@@ -9,8 +9,8 @@ After meeting with Dr. Edmunds Reineks at the [Pathology and Laboratory Medicine
 
 ### The tools
 * R for initial data cleaning and algorithm prototyping
-* Hadoop when we decided to go 'Big Data'
-* Python's scikit-learn for Gaussian Mixture Model to get us to 'Big Data'
+* Hadoop when we decided to go Big Data
+* Python's scikit-learn for Gaussian Mixture Model for data augmentation
 * Keras for neural networks
 * Spark ML when we decided to go with the all-in-one library for user simplicity
 
